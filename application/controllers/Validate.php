@@ -37,7 +37,7 @@ class Validate extends CI_Controller {
                 
             )
             
-        )
+        );
         
     }
 }
